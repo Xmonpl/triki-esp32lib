@@ -19,7 +19,6 @@ Oparta na zreverse-engineeringowanym protokole z projektów:
 - [NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino) — lżejsza alternatywa dla oryginalnego stosu BLE
 
 ## Instalacja
-s
 ### PlatformIO
 
 ```ini
@@ -66,6 +65,10 @@ void loop() {
 }
 ```
 
-## Licencja
+## 
 
-MIT
+This repository is intended only for educational, interoperability, repair, and hardware documentation purposes.
+
+Any data, observations, traces, identifiers, memory contents, protocol details, or other information obtained during technical analysis of the device are used exclusively for studying the device behavior, documenting its hardware/software interaction, enabling interoperability, and assessing possible repair or recovery procedures, to the extent permitted under Directive 2009/24/EC and applicable national law.
+
+This repository is not intended to enable, assist, or promote unauthorized reproduction of the original firmware, circumvention of commercial services, cloning of the device, creation of compatible counterfeit devices, or any commercial exploitation of proprietary software, firmware, protocols, assets, trademarks, or copyrighted material.
